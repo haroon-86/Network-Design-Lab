@@ -2,8 +2,6 @@
 
 ![AltText](network.png)
 
-# Network Documentation
-
 ## Overview
 
 This network consists of three switches and six PCs connected to a single router (2911). The network is divided into three subnets, each connected to the router via a Gigabit Ethernet interface.
